@@ -1,4 +1,4 @@
-<h1>***EjerciciosPseInt_ArgentinaPrograma_4.0***</h1>
+<h1> ___EjerciciosPseInt_ArgentinaPrograma_4.0___ </h1>
 
 <h2>En este repositorio almaceno todo el contenido impartido en la primera parte de ARGENTINA PROGRAMA 4.0 - PDC.</h2>
 
