@@ -1,4 +1,4 @@
-<h1>🧑‍💻Ejercicios de Logica de programacion con Pseudocodigo - ARGENTINA PROGAMA 4.0🧑‍💻</h1>
+<h1>🧑‍💻Ejercicios de Logica de programacion con Pseudocodigo - ARGENTINA PROGRAMA 4.0🧑‍💻</h1>
 
 <h2>Este repositorio almacena todo el contenido impartido en la primera parte de ARGENTINA PROGRAMA 4.0 - PDC (Primeros Pasos en la Programacion)</h2>
 
